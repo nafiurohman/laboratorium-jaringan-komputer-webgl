@@ -1,7 +1,5 @@
 # Lab Jaringan WebGL
 
-🌐 **Live Demo**: [https://nafiurohman.github.io/lab-jaringan/](https://nafiurohman.github.io/lab-jaringan/)
-
 A modern web-based network laboratory application built with WebGL technology for interactive network simulations and learning.
 
 ## 🚀 Features
